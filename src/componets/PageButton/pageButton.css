@@ -1,0 +1,16 @@
+.container-button{
+    border-radius: 20px;
+    background-color: #cdcdcd;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding: 18px 95px 18px 95px;
+}   
+.text-button{
+    margin: 0px;
+    color: #000000;
+    font-family: "Montserrat - Semi Bold";
+    font-size: 14px;
+    font-weight: 600;
+    text-align: center;
+    letter-spacing: 1.05px;
+}

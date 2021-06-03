@@ -1,0 +1,26 @@
+.container-greet{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.bacground-greet{
+    margin-top: 80px;
+    margin-bottom: 200px;
+    width: 1711px;
+    height: 349px;
+    background-color: #cdcdcd;
+}
+.title-greet{
+    color: #000000;
+    font-family: "Montserrat - Semi Bold";
+    font-size: 48px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 24px;
+    text-align: left;
+    font-style: normal;
+    letter-spacing: 3.6px;
+    line-height: normal;
+    margin-bottom: 75px;
+}

@@ -1,0 +1,48 @@
+.container-registration{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 1772px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.content-regis{
+    max-width: 522px;
+
+}
+.title-regis{
+    color: #000000;
+    font-family: "Montserrat - Semi Bold";
+    font-size: 48px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 24px;
+    text-align: left;
+    font-style: normal;
+    letter-spacing: 3.6px;
+    line-height: normal;
+    padding-bottom: 80px;
+}
+.container-regis-input{
+    display: flex;
+    flex-direction: column;
+}
+.regis-input{
+    border: none;
+    border-bottom: 1px solid #cdcdcd;
+    padding-bottom: 20px;
+    margin-bottom: 70px;
+}
+.button-reg{
+    border: none;
+    background: none;
+    margin-top: 60px;
+}
+.bacgroud-container{
+    width: 920px;
+    height: 920px;
+    background-color: #cdcdcd;
+}
+

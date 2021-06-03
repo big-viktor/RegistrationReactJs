@@ -1,0 +1,14 @@
+.container-hello{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 500px;
+    padding-bottom: 500px;
+}
+.content-created{
+    margin-right: 35px;
+}
+.none{
+    background: none;
+    border: none;
+}
